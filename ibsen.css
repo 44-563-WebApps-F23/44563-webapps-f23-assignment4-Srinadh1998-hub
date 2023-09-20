@@ -5,8 +5,12 @@
 .MISSTESMAN{ color: darkorange;}
 .BERTA{ color:blue;}
 .TESMAN{ color:brown;}
-.HEDDA{ color:aquamarine;}
+.HEDDA{ color:darkorange;}
 
+.MISSTESMAN:hover{background-color: blue;text-shadow:5px 8px 6px palevioletred;border:solid 3px red;width: 300px;}
+.BERTA:hover{background-color: brown;text-shadow:5px 8px 6px fuchsia;border:solid 3px red;width: 300px;}
+.TESMAN:hover{background-color: darkorchid;text-shadow:5px 8px 6px black;border:solid 3px red;width: 300px;}
+.HEDDA:hover{ background-color: palegreen;text-shadow:5px 8px 6px yellow;border:solid 3px red;width: 300px;}
 table{
     background-color: lightblue;
     color:blue;
