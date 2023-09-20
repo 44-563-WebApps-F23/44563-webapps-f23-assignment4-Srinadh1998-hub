@@ -7,3 +7,21 @@
 .TESMAN{ color:brown;}
 .HEDDA{ color:aquamarine;}
 
+table{
+    background-color: lightblue;
+    color:blue;
+    text-align: center;
+    padding: 1px;
+    border:solid 3px darkviolet;
+    margin-bottom: 20px;
+}
+th {
+    background-color:cornflowerblue;
+    color:crimson;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid darkviolet;
+}
+td{border: solid 1px;text-align: center;padding: 9px;}
+tr{background-color: darkgreen;}
+tr:nth-child(even){background-color:darksalmon;color:yellow;}
